@@ -1,2 +1,2 @@
-#Chakras-and-More
+# Chakras-and-More
 
